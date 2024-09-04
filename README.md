@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my preparation for placement<br>I'm looking to collaborate on different projects<br>I'm looking for help with Flutter-Dart<br>I'm currently learning Dart-Flutter<br>Ask me about JAVA programming
+I'm currently working on my Placement preparation<br>I'm looking to collaborate on different projects<br>I'm looking for help with Flutter-Dart<br>I'm currently learning Dart-Flutter, C-C++<br>Ask me about JAVA programming, Operating Systems
 
 
 ## 🌐 Socials:
