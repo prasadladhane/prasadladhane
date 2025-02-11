@@ -1,5 +1,23 @@
 # 💫 About Me:
-I'm currently working on my Placement preparation<br>I'm looking to collaborate on different projects<br>I'm looking for help with Flutter-Dart<br>I'm currently learning Dart-Flutter, C-C++<br>Ask me about JAVA programming, Operating Systems
+Educational Background:
+Final-year Electronics and Telecommunication Engineering student at Savitribai Phule Pune University with a CGPA of 7.52/10 and a proven record of academic excellence (85% in HSC).
+
+Leadership and Collaboration:
+Successfully served as TE Class Representative, driving student initiatives and fostering team collaboration.
+
+Key Projects:
+
+Travel Guard (Mobile App): Mobile App for Travelers which provides emergency services. Developed in Flutter using Dart, Firebase, OOP concepts.
+
+Share My Ride (Desktop App): Simplified travel convenience using Core Java and OOP concepts.
+
+RFID Fuel Automation System: Streamlined fuel access and reduced manual errors using microcontroller programming and Embedded C.
+
+Technical Skills:
+Proficient in Flutter, Dart, Java, OOP, JVM, Operating Systems, Linux, Windows, Git, Firebase, and tools like VS Code and IntelliJ IDEA.
+
+Passion for Technology:
+Dedicated to leveraging my education and skills to develop impactful solutions that solve real-world problems.
 
 
 ## 🌐 Socials:
