@@ -21,7 +21,7 @@ Dedicated to leveraging my education and skills to develop impactful solutions t
 
 
 ## 🌐 Socials:
-[![Linktree](https://img.shields.io/badge/Linktree-%230077B5.svg?logo=linktree&logoColor=white)](https://linktr.ee/prasadladhane) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-ladhane-557b0b247/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@prasadladhanetest) 
+[![Linktree](https://img.shields.io/badge/Linktree-%23008000.svg?logo=linktree&logoColor=white)](https://linktr.ee/prasadladhane) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-ladhane-557b0b247/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@prasadladhanetest) 
 
 
 # 💻 Tech Stack:
