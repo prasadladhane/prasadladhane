@@ -1,6 +1,6 @@
 # 💫 About Me:
 Educational Background:
-Final-year Electronics and Telecommunication Engineering student at Savitribai Phule Pune University with a CGPA of 7.52/10 and a proven record of academic excellence (85% in HSC).
+Final-year Electronics and Telecommunication Engineering student at Savitribai Phule Pune University with a CGPA of 7.44/10 and a proven record of academic excellence (85% in HSC).
 
 Leadership and Collaboration:
 Successfully served as TE Class Representative, driving student initiatives and fostering team collaboration.
