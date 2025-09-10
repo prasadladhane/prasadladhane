@@ -1,23 +1,23 @@
-# 💫 About Me:
-Educational Background:
-Final-year Electronics and Telecommunication Engineering student at Savitribai Phule Pune University with a CGPA of 7.57/10 and a proven record of academic excellence (85% in HSC).
+Electronics and Telecommunication Engineering student at Savitribai Phule Pune University, actively seeking internship or entry-level roles in Flutter, mobile app, Java, or software development domains.
 
-Leadership and Collaboration:
-Successfully served as TE Class Representative, driving student initiatives and fostering team collaboration.
+📌 Key Projects:
 
-Key Projects:
+Farm2Mill Sugar Factory App (Flutter): A factory process management system using Shared Preferences, Firebase (Auth, Storage, Firestore), and Provider for secure data handling.
 
-Travel Guard (Mobile App): Mobile App for Travelers which provides emergency services. Developed in Flutter using Dart, Firebase, OOP concepts.
+Travel Packer App (Flutter): A packing assistant that helps users add and manage travel essentials using Provider state management.
 
-Share My Ride (Desktop App): Simplified travel convenience using Core Java and OOP concepts.
+BMI Calculator App (Flutter): A health utility app to calculate Body Mass Index using BLoC state management.
 
-RFID Fuel Automation System: Streamlined fuel access and reduced manual errors using microcontroller programming and Embedded C.
+Weather Forecast App (Flutter): Provides real-time weather updates using GetX state management and API integration.
 
-Technical Skills:
-Proficient in Flutter, Dart, Java, OOP, JVM, Operating Systems, Linux, Windows, Git, Firebase, and tools like VS Code and IntelliJ IDEA.
+Travel Guard (Flutter): An emergency assistance app for travelers to get quick help using Dart and Firebase.
 
-Passion for Technology:
-Dedicated to leveraging my education and skills to develop impactful solutions that solve real-world problems.
+Share My Ride (Java): A desktop application for ride sharing and pooling built with Core Java and OOP.
+
+💡 Skilled in:
+Flutter, Dart, Java, Firebase (and its services), API integration & testing (Postman), state management (GetX, BLoC, Provider), Git, Linux terminal commands, OS concepts, JVM, and tools like VS Code & IntelliJ IDEA.
+
+I’m passionate about building impactful applications and continuously expanding my skillset through real-world problem-solving and hands-on learning.
 
 
 ## 🌐 Socials:
