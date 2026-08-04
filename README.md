@@ -1,23 +1,4 @@
-Electronics and Telecommunication Engineering student at Savitribai Phule Pune University, actively seeking internship or entry-level roles in Flutter, mobile app, Java, or software development domains.
-
-📌 Key Projects:
-
-Farm2Mill Sugar Factory App (Flutter): A factory process management system using Shared Preferences, Firebase (Auth, Storage, Firestore), and Provider for secure data handling.
-
-Travel Packer App (Flutter): A packing assistant that helps users add and manage travel essentials using Provider state management.
-
-BMI Calculator App (Flutter): A health utility app to calculate Body Mass Index using BLoC state management.
-
-Weather Forecast App (Flutter): Provides real-time weather updates using GetX state management and API integration.
-
-Travel Guard (Flutter): An emergency assistance app for travelers to get quick help using Dart and Firebase.
-
-Share My Ride (Java): A desktop application for ride sharing and pooling built with Core Java and OOP.
-
-💡 Skilled in:
-Flutter, Dart, Java, Firebase (and its services), API integration & testing (Postman), state management (GetX, BLoC, Provider), Git, Linux terminal commands, OS concepts, JVM, and tools like VS Code & IntelliJ IDEA.
-
-I’m passionate about building impactful applications and continuously expanding my skillset through real-world problem-solving and hands-on learning.
+Flutter & Java developer. Building TaxPilot — an AI-powered tax assistant for freelancers (Flutter, Spring Boot, PostgreSQL, Gemini API). Also shipping smaller apps exploring state management (Provider, BLoC, GetX) and Firebase-backed real-time systems. Based in Pune, India.
 
 
 ## 🌐 Socials:
